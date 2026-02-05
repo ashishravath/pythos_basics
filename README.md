@@ -9,3 +9,8 @@ git diff
 
 git add . (all files in that location)
 git add <file path>
+git status
+git commit -m "message"
+git push origin main
+
+// intialize git for local folder
